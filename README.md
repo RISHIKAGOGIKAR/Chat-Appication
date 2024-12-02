@@ -1,4 +1,4 @@
-# Chat-Appication
+u# Chat-Appication
 A basic chat application for agile teams to communicate.
 
 Agile Iterations:
